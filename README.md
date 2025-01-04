@@ -1,5 +1,5 @@
 # RapeRiskClassifier-ML
-# An In-Depth Analysis of Rape Cases in India Using Machine Learning  
+An In-Depth Analysis of Rape Cases in India Using Machine Learning  
 
 This project utilizes machine learning to analyze and predict trends in rape cases across India. The primary goal is to identify high-risk regions, understand crime patterns, and provide actionable insights using data visualization and geospatial mapping techniques.  
 
